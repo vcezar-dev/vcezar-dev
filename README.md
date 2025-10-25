@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm a Full-Stack Developer and a Systems Analysis and 
 Development student. I'm passionate about continuous learning and open 
