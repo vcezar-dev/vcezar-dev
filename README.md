@@ -13,7 +13,7 @@ with a focus on clean architecture, good practices, and code quality.
 **Backend** — Node.js, NestJS, TypeORM, PostgreSQL, Express, JWT, Swagger  
 **Frontend** — React, Next.js, Vite, Tailwind CSS, Zustand, React Query  
 **Tooling** — Docker, GitHub Actions (CI/CD), Git, ESLint, Prettier  
-**Practices** — SOLID, DDD, unit & E2E testing, REST API design, RBAC
+**Practices** — Clean Architecture, SOLID, unit & E2E testing, REST API design, RBAC
 
 ---
 
